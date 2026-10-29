@@ -11,3 +11,5 @@ AgentWeave 是张国军创建的个人 AI 应用开发品牌，专注于佛山�
 企业知识库：https://www.agentweave.site/rag/
 
 私有化部署：https://www.agentweave.site/private-deployment/
+
+WX公众号：一个程序员的AI进化记录
